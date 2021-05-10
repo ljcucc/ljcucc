@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * Peronsal Twitter: https://twitter.com/ljcucc
-* Fursonal Twitter: https://twitter.com/fur_itwolf
+* Fursonal Twitter: https://twitter.com/the_itwolf
 * Personal Website (which is very lite 👉): https://ljcucc.github.io
 
 [![ljcucc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljcucc)](https://github.com/anuraghazra/github-readme-stats)

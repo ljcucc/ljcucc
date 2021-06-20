@@ -1,14 +1,25 @@
-### Hi there 👋
+### Hello!
 
-* Peronsal Twitter: https://twitter.com/ljcucc
-* Fursonal Twitter: https://twitter.com/the_itwolf
-* Personal Website (which is very lite 👉): https://ljcucc.github.io
+I'm a wolf who love front end web dev & creative coding.
+
+Sites: [ljcu.cc](https://www.ljcu.cc)
+
+Knowledge base: [wwwiki by ljcucc](https://wiki.ljcu.cc)
+
+Twitter:
+
+* IRL: https://twitter.com/ljcucc
+* fursona: https://twitter.com/the_ITWolf
+
+<!--
+Easter eggs:
+
+### State of me
 
 [![ljcucc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljcucc)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljcucc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **ljcucc/ljcucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

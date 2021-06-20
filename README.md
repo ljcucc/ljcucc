@@ -1,8 +1,25 @@
-### Hi there 👋
+### UwU, Hello!
 
-* Peronsal Twitter: https://twitter.com/ljcucc
-* Fursonal Twitter: https://twitter.com/the_itwolf
-* Personal Website (which is very lite 👉): https://ljcucc.github.io
+I'm a front-end web dev who also a UwU.
+
+here's my twitter: 
+
+* This is the real person one: https://twitter.com/ljcucc
+* And this, also real person, but more fur: https://twitter.com/the_itwolf
+* And then... This is my personal website 👉): https://ljcucc.github.io
+
+I'm trying to make my website loading as fast as possible.
+
+### Support me ❤️
+
+I'll very very appreciate, if you donate me. you can actually support me by using LBC, and ... 
+this is the only way to donate - LBRY wallet: `bJTfXaovLoPiwf1nydNPkEa1XuhJG5ot5y`
+
+Thx you so much ❤️ !!
+
+---
+
+### State of me
 
 [![ljcucc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljcucc)](https://github.com/anuraghazra/github-readme-stats)
 

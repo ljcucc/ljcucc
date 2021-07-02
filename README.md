@@ -10,13 +10,6 @@ here's my twitter:
 
 I'm trying to make my website loading as fast as possible.
 
-### Support me ❤️
-
-I'll very very thx you so much, if you donate me. you can actually support me by using LBC, and ... 
-this is the only way to donate - LBRY wallet: `bJTfXaovLoPiwf1nydNPkEa1XuhJG5ot5y`
-
-Thx you so much ❤️ !!
-
 ---
 
 ### State of me

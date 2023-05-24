@@ -2,16 +2,11 @@
 
 I'm a wolf who love front end web dev & creative coding.
 
-Sites: [ljcu.cc](https://www.ljcu.cc)
-
-Knowledge base: [wwwiki by ljcucc](https://wiki.ljcu.cc)
-
-Twitter:
-
-* IRL: https://twitter.com/ljcucc
-* fursona: https://twitter.com/the_ITWolf
-
-Unsplash: https://unsplash.com/@ljcucc
+- `/` - [ljcu.cc](https://www.ljcu.cc)
+- `/wiki` - [(www)iki](https://wiki.ljcu.cc)
+- `/twitter/IRL` - https://twitter.com/ljcucc
+- `/twitter/fursona` - https://twitter.com/the_ITWolf
+- `/unsplash` - https://unsplash.com/@ljcucc
 
 <!--
 Easter eggs:

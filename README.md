@@ -1,6 +1,12 @@
-### Hello!
+<img src="assets/intro.png"/>
 
-I'm a wolf who love front end web dev & creative coding.
+<div style="display: flex; flex-direction: row; gap: 16px;">
+  <a href="https://twitter.com/the_ITWolf"> <img src="assets/twitter.png"/> </a>
+  <a href="https://unsplash.com/@ljcucc"> <img src="assets/unsplash.png"/> </a>
+  <a href="https://ljcucc.blogspot.com"> <img src="assets/blogger.png"/> </a>
+</div>
+
+> I'm a wolf who love front end web dev & creative coding.
 
 - `/` - [ljcu.cc](https://www.ljcu.cc)
 - `/wiki` - [(www)iki](https://wiki.ljcu.cc)

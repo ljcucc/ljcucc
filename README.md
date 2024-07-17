@@ -8,12 +8,6 @@
 
 > I'm a wolf who love front end web dev & creative coding.
 
-- `/` - [ljcu.cc](https://www.ljcu.cc)
-- `/wiki` - [(www)iki](https://wiki.ljcu.cc)
-- `/twitter/IRL` - https://twitter.com/ljcucc
-- `/twitter/fursona` - https://twitter.com/the_ITWolf
-- `/unsplash` - https://unsplash.com/@ljcucc
-
 <!--
 Easter eggs:
 

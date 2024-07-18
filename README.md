@@ -10,7 +10,7 @@
   </div>
 </p>
 
-<img src="assets/div.svg" height="200px"/>
+<img src="assets/div.svg" height="100px"/>
 
 <div align="center">
   <p><a href="https://realtime-taiwan.ljcu.cc"> <img width="600px" src="assets/project-rttw.webp"/> </a></p>

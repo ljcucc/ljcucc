@@ -1,3 +1,5 @@
+> A canine who <3 front end web dev & creative coding.
+
 <img src="assets/intro.webp"/>
 
 <div style="display: flex; flex-direction: row; gap: 16px;">
@@ -6,7 +8,10 @@
   <a href="https://ljcucc.blogspot.com"> <img height="60px" src="assets/blogger.png"/> </a>
 </div>
 
-> I'm a wolf who love front end web dev & creative coding.
+# Projects
+
+<div><a href="https://realtime-taiwan.ljcu.cc"> <img height="100px" src="assets/project-rttw.webp"/> </a></div>
+<div><a href="https://notes.ljcu.cc"> <img height="100px" src="assets/project-notemd.webp"/> </a></div>
 
 <!--
 Easter eggs:

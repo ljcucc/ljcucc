@@ -3,11 +3,15 @@
 <img src="assets/intro.webp"/>
 
 <p>
-<div style="display: flex; flex-direction: row; gap: 16px;">
-  <a href="https://twitter.com/the_ITWolf"> <img height="60px" src="assets/twitter.png"/> </a>
-  <a href="https://unsplash.com/@ljcucc"> <img height="60px" src="assets/unsplash.png"/> </a>
-  <a href="https://ljcucc.blogspot.com"> <img height="60px" src="assets/blogger.png"/> </a>
-</div>
+  <svg>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div style="display: flex; flex-direction: row; gap: 16px;">
+        <a href="https://twitter.com/the_ITWolf"> <img height="60px" src="assets/twitter.png"/> </a>
+        <a href="https://unsplash.com/@ljcucc"> <img height="60px" src="assets/unsplash.png"/> </a>
+        <a href="https://ljcucc.blogspot.com"> <img height="60px" src="assets/blogger.png"/> </a>
+      </div>
+    </div>
+  </svg>
 </p>
 
 <img src="assets/div.svg" style="width: 100%;"/>

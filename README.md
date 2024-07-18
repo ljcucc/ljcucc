@@ -1,4 +1,4 @@
-<img src="assets/intro.png"/>
+<img src="assets/intro.webp"/>
 
 <div style="display: flex; flex-direction: row; gap: 16px;">
   <a href="https://twitter.com/the_ITWolf"> <img height="60px" src="assets/twitter.png"/> </a>

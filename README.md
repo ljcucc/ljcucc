@@ -8,7 +8,7 @@
   <a href="https://ljcucc.blogspot.com"> <img height="60px" src="assets/blogger.png"/> </a>
 </div>
 
-# Projects
+<img src="assets/div.svg" style="width: 100%;"/>
 
 <div><a href="https://realtime-taiwan.ljcu.cc"> <img width="600px" src="assets/project-rttw.webp"/> </a></div>
 <div><a href="https://notes.ljcu.cc"> <img width="600px" src="assets/project-notemd.webp"/> </a></div>

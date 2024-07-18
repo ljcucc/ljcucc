@@ -10,8 +10,8 @@
 
 # Projects
 
-<div><a href="https://realtime-taiwan.ljcu.cc"> <img height="100px" src="assets/project-rttw.webp"/> </a></div>
-<div><a href="https://notes.ljcu.cc"> <img height="100px" src="assets/project-notemd.webp"/> </a></div>
+<div><a href="https://realtime-taiwan.ljcu.cc"> <img width="600px" src="assets/project-rttw.webp"/> </a></div>
+<div><a href="https://notes.ljcu.cc"> <img width="600px" src="assets/project-notemd.webp"/> </a></div>
 
 <!--
 Easter eggs:
